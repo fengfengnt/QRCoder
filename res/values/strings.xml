@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QRCoder</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="str_button1">生成</string>
+    <string name="imgdescription">img</string>
+    <string name="str_initcamera">开启相机</string>
+    <string name="str_closecamera">关闭相机</string>
+    <string name="str_take_picture">拍照解码</string>
+    <string name="str_app_decoder">QRDecoder</string>
+    <string name="oneshotframe">预览（供解码的图像）:</string>
+    <string name="copyright">copyright cjcc</string>
+
+</resources>
